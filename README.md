@@ -2,5 +2,4 @@
 
 Helsingin yliopiston [fullstack kurssi](https://fullstackopen.com/)
 
-## [Part 1](https://github.com/Temez1/fullstackOpen2019Part1) <br>
-- Reactin perusteet
+## [Part 1] Reactin perusteet(https://github.com/Temez1/fullstackOpen2019Part1) <br>
