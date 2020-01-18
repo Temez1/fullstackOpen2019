@@ -1,6 +1,6 @@
 # fullstackOpen2019
 
-Helsingin yliopiston [fullstack kurssi](https://fullstackopen.com/). Tänne koottu eri osien repot ja aihealueet. Jokaisessa "ali repossa" on linkki takaisin edelliseen repoon kuvauksen vieressä.
+Helsingin yliopiston [fullstack kurssi](https://fullstackopen.com/). Tänne koottu eri osien repot ja aihealueet.
 
 ## [Osa 1](https://github.com/Temez1/fullstackOpen2019Part1) Reactin perusteet
 
