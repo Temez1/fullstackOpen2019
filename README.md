@@ -15,3 +15,5 @@ Helsingin yliopiston [fullstack kurssi](https://fullstackopen.com/). Tänne koot
 ## [Osa 6](https://github.com/Temez1/fullstackOpen2019Part6) Sovelluksen tilan hallinta Redux-kirjastolla
 
 ## [Osa 7](https://github.com/Temez1/fullstackOpen2019Part7) React router, tyylikirjastot ja webpack
+
+## [Osa 7.1](https://github.com/Temez1/fullstackOpen2019Part7BlogilistanLaajennus) Blogilistan laajennus
